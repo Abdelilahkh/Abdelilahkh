@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 Hello, I'm Abdel, a computer science student with a passion for programming. I have experience in several programming languagesAbdelilah khaliphi. Currently, I'm focused on learning server management to build more robust applications.<br><br>🌱 In addition to being part of the computer science community at my university, I'm also an admin for a Junior Enterprise in computer science. Our team specializes in building websites and providing technical services for clients, which has allowed me to gain more programming experience and develop my leadership skills.<br><br>💬 I'm always excited to take on new projects and challenges, so feel free to reach out if you have any ideas or want to collaborate. Check out my GitHub profile to see some of my projects!
+🔭 Hello, I'm Abdel, a computer science student with a passion for programming. I have experience in several programming languages. Currently, I'm focused on learning server management to build more robust applications.<br><br>🌱 In addition to being part of the computer science community at my university, I'm also an admin for a Junior Enterprise in computer science. Our team specializes in building websites and providing technical services for clients, which has allowed me to gain more programming experience and develop my leadership skills.<br><br>💬 I'm always excited to take on new projects and challenges, so feel free to reach out if you have any ideas or want to collaborate. Check out my GitHub profile to see some of my projects!
 
 
 ## 🌐 Socials:
